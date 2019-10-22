@@ -1,5 +1,5 @@
 Bootstrap: docker
-From: combinelab/salmon
+From: combinelab/salmon:0.14.1
 
 %environment
 export LC_ALL=C.UTF-8
